@@ -57,15 +57,15 @@ Exemplos de representación da nosa comunidade inclúen o uso dunha conta oficia
 correo electrónico, publicacións a través das redes sociais oficiais, ou actuando coma 
 un representante designado nun evento, xa sexa en liña ou non.
 
-## Enforcement
+## Aplicación
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
-All complaints will be reviewed and investigated promptly and fairly.
+Instancias de comportamento abusivo, acosador ou inaceptable de calquera forma
+poden ser reportados ó liderado da comunidade responsable do seu cumplimento a través
+de [INSERTE MÉTODO DE CONTACTO]. Todas as queixas serán avaliadas e investigadas de maneira
+puntual e xusta.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Tódolos administradores da comunidade están obrigados a respectar a privacidade e a seguridade
+da persoa encargada de reportar calquera incidente.
 
 ## Enforcement Guidelines
 
