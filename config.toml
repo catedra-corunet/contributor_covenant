@@ -82,6 +82,10 @@ languageCode = "es"
 languageName = "Français"
 languageCode = "fr"
 
+[Languages.gl]
+languageName = "Galego"
+languageCode = "gl"
+
 [Languages.gu]
 languageName = "ગુજરાતી"
 languageCode = "gu"
