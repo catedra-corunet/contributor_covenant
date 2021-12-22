@@ -67,63 +67,59 @@ puntual e xusta.
 Tódolos administradores da comunidade están obrigados a respectar a privacidade e a seguridade
 da persoa encargada de reportar calquera incidente.
 
-## Enforcement Guidelines
+## Guía de aplicación
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+O liderado da comunidade empregará as seguintes directrices de impacto na comunidade
+á hora de decidir as consecuencias das accións que consideren quebraron o presente Código de Conduta.
 
-### 1. Correction
+### 1. Acción correctiva
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Impacto na Comunidade**: Uso de linguaxe impropia ou calquera outro comportamento que
+se considere pouco profesional ou non benvido na comunidade.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**Consecuencia**: Aviso privado, por escrito, por parte do liderado da comunidade, que
+aporte claridade no tocante á natureza da violación e unha explicación de por qué o comportamento
+foi impropio. Pode solicitarse unha desculpa pública.
 
-### 2. Warning
+### 2. Advertencia
 
-**Community Impact**: A violation through a single incident or series of
-actions.
+**Impacto na Comunidade**: Violación nun incidente único ou unha secuencia de accións.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+**Consecuencia**: Aviso das consecuencias dese comportamento continuado. Suspensión das interaccións
+coas persoas afectadas, incluíndo interaccións non solicitadas con aquelas que apliquen este Código
+de Conduta, durante un período de tempo determinado. Isto inclúe evitar as interaccións nos
+espazos da comunidade, así como noutras canles externas, como redes sociais. O incumprimento destes
+termos pode levar á expulsión temporal ou definitiva.
 
-### 3. Temporary Ban
+### 3. Expulsión temporal
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+**Impacto na Comunidade**: Violación grave das regras da comunidade, incluíndo persistencia en comportamento impropio.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Consecuencia**: Suspensión temporal de calquera tipo de interacción ou comunicación pública coa
+comunidade durante un período de tempo determinado. Ausencia total de interaccións públicas ou privadas
+coas persoas afectadas, incluíndo interaccións non solicitadas con aquelas que apliquen este Código
+de Conduta, durante ese mesmo período de tempo. O incumprimento destes termos pode levar á expulsión
+definitiva.
 
-### 4. Permanent Ban
+### 4. Expulsión definitiva
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+**Impacto na Comunidade**: Violación reiterada e sostida das regras da comunidade,
+incluíndo persistencia en comportamento impropio, acoso dunha persoa, ou agresión ou difamación de grupos de persoas.
 
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
+**Consecuencia**: Expulsión definitiva de calquera interacción pública coa comunidade.
 
-## Attribution
+## Atribución
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
+Este Código de Conduta adaptouse de [Contributor Covenant][homepage],
+na súa versión 2.1, dispoñible en
 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+A guía de cumprimento inspirouse na
+[escada de aplicación do código de conduta de Mozilla][Mozilla CoC].
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
+Para obter respostas a preguntas comúns sobre este código de conduta, pódense consultar as FAQ en
+[https://www.contributor-covenant.org/faq][FAQ].
+As traducións están dispoñibles en
 [https://www.contributor-covenant.org/translations][translations].
 
 [homepage]: https://www.contributor-covenant.org
