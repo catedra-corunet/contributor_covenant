@@ -3,13 +3,13 @@ version = "2.1"
 aliases = ["/version/2/1"]
 +++
 
-# Código de Conduta convido para contribuintes
+# Código de Conduta para persoas colaboradoras
 
 ## O noso compromiso
 
-Nós, como membros, contribuintes, e responsables comprometémonos a facer da
+Nós, como membros, persoas colaboradoras, e responsables comprometémonos a facer da
 participación na nosa comunidade unha experiencia libre de acoso para todas as persoas, 
-independientemente da súa idade, tamaño corporal, discapacidade visible ou invisible,
+independentemente da súa idade, tamaño corporal, características funcionais visibles ou invisibles,
 etnia, características sexuais, identidade e expresión de xénero, nivel de experiencia,
 educación, nivel socioeconómico, nacionalidade, aspecto físico, raza, casta, cor, relixión,
 identidade ou orientación sexual.
@@ -23,49 +23,50 @@ Exemplos de comportamento que contribúen a un entorno positivo na nosa comunida
 inclúen:
 
 * Demostrar empatía e amabilidade cara outras persoas
-* Respecto ante opinións, puntos de vista e experiencias diferentes 
-* Opinar de forma constructiva, e aceptar a crítica constructiva sen problemas
-* Asumir a responsabilidade e desculparse ante aqueles afectados polos nosos erros,
+* Respectar opinións, puntos de vista e experiencias diferentes 
+* Opinar de forma construtiva, e aceptar a crítica construtiva sen problemas
+* Asumir a responsabilidade e desculparse ante quen os nosos erros afecten,
   aprendendo de dita experiencia
-* Centrarse no que sexa millor non para nós coma individuos, senón para a comunidade coma conxunto.
+* Centrarse no que sexa mellor non para nós como individuos, senón para a comunidade como conxunto.
 
 Exemplos de comportamentos que se consideran inaceptables inclúen: 
 
 * O uso de linguaxe ou imaxes sexualizadas, e aproximacións ou atencións sexuais de calquera tipo
-* _Troleo_, comentarios despectivos, insultantes ou derogatorios, e ataques políticos ou persoais
+* Comentarios despectivos, insultantes ou derogatorios, e ataques políticos ou persoais (_trolling_)
 * Acoso público ou privado
-* A publicación de información privada de outras persoas, coma por exemplo direccións físicas ou de correo electrónico,
-  sen o seu consentemento explícito 
-* Calquera outra conducta que puidera ser considerada inapropiada de xeito razonable nun entorno profesional
+* A publicación de información privada de outras persoas, como por exemplo direccións físicas ou de
+correo electrónico, sen o seu consentimento explícito 
+* Calquera outra conduta que puidera ser considerada impropia de xeito razoable nun entorno
+profesional
 
 ## Aplicación das responsabilidades
 
-O liderado da comunidade é responsable de clarificar e garantir o cumplimento dos nosos estándares
+O liderado da comunidade é responsable de clarificar e garantir o cumprimento dos nosos estándares
 de comportamento aceptable, e tomará medidas correctivas con un alcance apropiado e xusto en resposta
-a calquera comportamento que se considere inapropiado, ameazante, ofensivo ou dañino.
+a calquera comportamento que se considere impropio, ameazante, ofensivo ou daniño.
 
-Os administradores da comunidade teñen o dereito e a responsabilidade de eliminar, editar, ou rexeitar 
-comentarios, _commits_, código, edicións de páxinas de documentación, tarefas, ou calquera outra contribución
-non alineada con este Código de Conduta, e comunicarán o razoamento detrás das decisións da moderación adoptadas
-cando sexa apropiado.
+A administración da comunidade ten o dereito e a responsabilidade de eliminar, editar, ou rexeitar 
+comentarios, _commits_, código, edicións de páxinas de documentación, tarefas, ou calquera outra
+contribución non aliñada con este Código de Conduta, e comunicarán o razoamento detrás das decisións
+da moderación adoptadas cando sexa apropiado.
 
 ## Alcance
 
-Este Código de Conduta aplica en tódolos espacios da comunidade, e tamén aplica
-cando un individuo está representando de maneira oficial á comunidade en espacios públicos.
+Este Código de Conduta aplica en todos os espazos da comunidade, e tamén aplica
+cando unha persoa representa de maneira oficial á comunidade en espazos públicos.
 Exemplos de representación da nosa comunidade inclúen o uso dunha conta oficial de 
-correo electrónico, publicacións a través das redes sociais oficiais, ou actuando coma 
-un representante designado nun evento, xa sexa en liña ou non.
+correo electrónico, publicacións a través das redes sociais oficiais, ou actuando como 
+representante nun evento, xa sexa en liña ou non.
 
 ## Aplicación
 
-Instancias de comportamento abusivo, acosador ou inaceptable de calquera forma
-poden ser reportados ó liderado da comunidade responsable do seu cumplimento a través
-de [INSERTE MÉTODO DE CONTACTO]. Todas as queixas serán avaliadas e investigadas de maneira
+Poderá informarse de calquera mostra de acoso, comportamento abusivo ou inaceptable ao liderado da
+comunidade responsable da observación deste Código de Conduta a través
+de [INSIRA MÉTODO DE CONTACTO]. Todas as queixas serán avaliadas e investigadas de maneira
 puntual e xusta.
 
-Tódolos administradores da comunidade están obrigados a respectar a privacidade e a seguridade
-da persoa encargada de reportar calquera incidente.
+A administración da comunidade ten a obriga de respectar a privacidade e a seguridade
+de toda persoa que informe dalgún incidente.
 
 ## Guía de aplicación
 
@@ -78,7 +79,7 @@ O liderado da comunidade empregará as seguintes directrices de impacto na comun
 se considere pouco profesional ou non benvido na comunidade.
 
 **Consecuencia**: Aviso privado, por escrito, por parte do liderado da comunidade, que
-aporte claridade no tocante á natureza da violación e unha explicación de por qué o comportamento
+aporte claridade no tocante á natureza da violación e unha explicación de por que o comportamento
 foi impropio. Pode solicitarse unha desculpa pública.
 
 ### 2. Advertencia
